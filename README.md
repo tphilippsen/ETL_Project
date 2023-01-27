@@ -54,11 +54,14 @@ ______________________________
 
   * Dropped any N/A values in our new dataframe
   * Exported it to a CSV 
+  
   ![image](https://user-images.githubusercontent.com/62813833/215005662-0d5968b8-5c98-4729-9171-61f54badf443.png)
 
   
 _______________________________
 ## Load to Postgres
+<img width="1072" alt="sqlscreenshot" src="https://user-images.githubusercontent.com/62813833/215006100-8270c3fe-d133-46c0-8a78-71fee8a58f6c.png">
+
   * Created a new database 
     * Created a table to upload our .CSV file 
     * Ran a query to view the table
