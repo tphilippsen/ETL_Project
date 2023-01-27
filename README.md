@@ -26,7 +26,7 @@ We are going to load our refined dataset in Postgres for analysis.
 _______________________________
 
 ## Data Cleanup and Transformation:
-![popbrackersheaders](https://user-images.githubusercontent.com/62813833/215005313-15d3d338-b9b3-4f38-97bc-1cae8537d80e.PNG)
+
 
 In our Jupyter Notebook, we imported our .CSV and .XLS and began the cleanup process:
 
